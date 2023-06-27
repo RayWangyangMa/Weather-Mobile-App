@@ -8,19 +8,19 @@ Here are some screenshots of the Weather App:
 
 ### Login Screen
 
-<img src="./img/Weather-Login.png" alt="Login Screen" width="200"/>
+<img src="./img/Weather-Login.png" alt="Login Screen" width="400"/>
 
 ### Register Screen
 
-<img src="./img/Weather-Register.png" alt="Register Screen" width="200"/>
+<img src="./img/Weather-Register.png" alt="Register Screen" width="400"/>
 
 ### Weather Screen
 
-<img src="./img/Weather-Screen.png" alt="Weather Screen" width="200"/>
+<img src="./img/Weather-Screen.png" alt="Weather Screen" width="400"/>
 
 ### Add Location Screen
 
-<img src="./img/Weather-Add-Location.png" alt="Add Location Screen" width="200"/>
+<img src="./img/Weather-Add-Location.png" alt="Add Location Screen" width="400"/>
 
 
 
