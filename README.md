@@ -2,6 +2,28 @@
 
 This is a simple React Native weather app. It allows you to check the current weather in different locations. You can add and delete locations, and it uses the OpenWeather API to fetch the weather data.
 
+## Images
+
+Here are some screenshots of the Weather App:
+
+### Login Screen
+
+![Login Screen](./img/Weather-Login.png "Login Screen")
+
+### Register Screen
+
+![Register Screen](./img/Weather-Register.png "Register Screen")
+
+### Weather Screen
+
+![Weather Screen](./img/Weather-Screen.png "Weather Screen")
+
+### Add Location Screen
+
+![Add Location Screen](./img/Weather-Add-Location.png "Add Location Screen")
+
+
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
