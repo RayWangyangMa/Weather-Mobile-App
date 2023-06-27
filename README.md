@@ -29,7 +29,8 @@ To use Weather App, follow these steps:
 ## Configuration
 For security purposes, sensitive information like API keys and Firebase configuration are stored in a config.js file which is not included in the repository. You'll need to create your own config.js file in the root directory and replace the placeholders with your Firebase configuration and OpenWeather API key:
 
-```// config.js
+```
+// config.js
 
 export const firebaseConfig = {
   apiKey: "YOUR_API_KEY",
