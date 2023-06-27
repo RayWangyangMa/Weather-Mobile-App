@@ -47,7 +47,7 @@ To use Weather App, follow these steps:
 
 1. Make sure you have an Android Virtual Device running.
 2. From the project directory, run `npm run android`.
-3. Upon successful start, you'll see a login screen. Use `admin@gmail.com` and `adminadmin` to log in, or create a new account by clicking on 'Register'.
+3. Upon successful start, you'll see a login screen to create a new account by clicking on 'Register'.
 
 ## Configuration
 For security purposes, sensitive information like API keys and Firebase configuration are stored in a config.js file which is not included in the repository. You'll need to create your own config.js file in the root directory and replace the placeholders with your Firebase configuration and OpenWeather API key:
