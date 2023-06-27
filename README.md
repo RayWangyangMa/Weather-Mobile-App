@@ -20,7 +20,7 @@ Here are some screenshots of the Weather App:
 
 ### Add Location Screen
 
-<img src="./img/Weather-Add-Location.png" alt="Add Location Screen" width="200"/>
+<img src="./img/Weather-Add-Location .png" alt="Add Location Screen" width="200"/>
 
 
 
